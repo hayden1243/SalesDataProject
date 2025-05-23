@@ -27,5 +27,3 @@ Sales_Data_SQL_Solutions.sql – complete list of SQL queries used
 Sales Data with insights.xlsx – Excel dashboard with charts and insights
 
 Sales Report.docx - A report of findings
-
-report.md – executive summary and insights
