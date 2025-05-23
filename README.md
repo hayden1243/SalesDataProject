@@ -18,3 +18,14 @@ Excel workbook with visual dashboards and KPI summaries
 Price bracket segmentation and day-of-week trend analysis
 
 Stakeholder-ready analytics report in markdown
+
+📂 Contents
+sample_sales_data_15000.csv – the generated dataset
+
+Sales_Data_SQL_Solutions.sql – complete list of SQL queries used
+
+Sales Data with insights.xlsx – Excel dashboard with charts and insights
+
+Sales Report.docx - A report of findings
+
+report.md – executive summary and insights
